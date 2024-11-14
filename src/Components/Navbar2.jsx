@@ -13,7 +13,7 @@ const navigation = [
 
 export default function Navbar() {
 
-  const [darkMode, setDarkMode] = useState(false);
+  const [, setDarkMode] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   // Set initial theme based on user preference or default to light
