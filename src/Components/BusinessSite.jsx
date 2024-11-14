@@ -1,6 +1,6 @@
-import Ayro from "/public/images/StartUp/Ayro.svg";
-import Gray from "/public/images/StartUp/Gray.svg";
-import UI from "/public/images/StartUp/uideck.svg";
+import Ayro from "/public/Images/StartUp/Ayro.svg";
+import Gray from "/public/Images/StartUp/Gray.svg";
+import UI from "/public/Images/StartUp/uideck.svg";
 import aboutImage from "/public/Images/StartUp/hero-image-01.png";
 const BusinessSite = () => {
   const brandImages = [
