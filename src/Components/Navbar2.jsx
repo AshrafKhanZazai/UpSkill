@@ -1,7 +1,8 @@
 import { useState, useEffect } from "react";
 import { Dialog, DialogPanel } from "@headlessui/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
-import logo from "/public/Images/StartUp/Brand.svg";
+import DarkLogo from "/Images/StartUp/Brand.svg";
+import LightLogo from "/public/Images/StartUp/logo.svg";
 import "../App.css"
 
 
@@ -38,12 +39,13 @@ export default function Navbar() {
       <header className="absolute inset-x-0 top-0 z-50">
         <nav
           aria-label="Global"
-          className={"flex fixed w-full top-0 z-50 border-gray-800 bg-white dark:bg-[#111928] backdrop-blur-md items-center justify-between p-6 lg:px-8 lg:mx-auto max-w-[1280px]"}
+          className={"flex fixed w-full top-0 z-50 border-gray-800 bg-[#ffffff93] dark:bg-[#111928] backdrop-blur-sm items-center justify-between p-6 lg:px-8 lg:mx-auto max-w-[1280px]"}
         >
           <div className="flex lg:flex-1">
             <a href="#" className="-m-1.5 p-1.5">
               <span className="sr-only">Your Company</span>
-              <img alt="" src={logo} className="h-12 w-auto mx-0 lg:mx-10" />
+              <img alt="" src={LightLogo} className="h-12 w-auto mx-0 lg:mx-10 block dark:hidden" />
+              <img alt="" src={DarkLogo} className="h-12 w-auto mx-0 lg:mx-10 hidden dark:block" />
             </a>
           </div>
           <div className="flex lg:hidden">
@@ -104,8 +106,8 @@ export default function Navbar() {
                 <span className="sr-only">Your Company</span>
                 <img
                   alt=""
-                  src={logo}
-                  className="h-8 w-auto"
+                  src={LightLogo}
+                  className="h-8 w-auto block dark:hidden"
                 />
               </a>
               <button
