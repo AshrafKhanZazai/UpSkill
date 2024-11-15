@@ -20,7 +20,7 @@ const Cards = () => {
       </div>
       <div className="flex flex-wrap justify-center -mx-4">
         <div className="w-full px-4 sm:w-4/5 md:w-1/2 lg:w-1/3">
-          <div className="group relative mb-8 rounded-xl border border-gray-100 bg-gray-50 dark:bg-[#1F2A37] p-10 text-center md:px-8 lg:py-9 lg:px-6 xl:py-[45px] xl:px-[43px]">
+          <div className="group relative mb-8 rounded-xl border border-gray-100 dark:border-gray-900 bg-gray-50 dark:bg-[#1F2A37] p-10 text-center md:px-8 lg:py-9 lg:px-6 xl:py-[45px] xl:px-[43px]">
             <div className="relative z-10 inline-flex items-center mx-auto mb-10 h-11">
               <span className="bg-primary absolute -right-3 top-0 z-[-1] h-[34px] w-[34px] rounded-full opacity-10"></span>
               <svg width="51" height="50" viewBox="0 0 51 50" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -38,7 +38,7 @@ const Cards = () => {
           </div>
         </div>
         <div className="w-full px-4 sm:w-4/5 md:w-1/2 lg:w-1/3">
-          <div className="group relative mb-8 rounded-xl border border-gray-100 dark:border-gray bg-gray-50 dark:bg-[#1F2A37] p-10 text-center md:px-8 lg:py-9 lg:px-6 xl:py-[45px] xl:px-[43px]">
+          <div className="group relative mb-8 rounded-xl border border-gray-100 dark:border-gray-900 dark:border-gray bg-gray-50 dark:bg-[#1F2A37] p-10 text-center md:px-8 lg:py-9 lg:px-6 xl:py-[45px] xl:px-[43px]">
             <div className="relative z-10 inline-flex items-center mx-auto mb-10 h-11">
               <span className="bg-primary absolute -right-3 top-0 z-[-1] h-[34px] w-[34px] rounded-full opacity-10"></span>
               <svg width="51" height="50" viewBox="0 0 51 50" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -56,7 +56,7 @@ const Cards = () => {
           </div>
         </div>
         <div className="w-full px-4 sm:w-4/5 md:w-1/2 lg:w-1/3">
-          <div className="group relative mb-8 rounded-xl border border-gray-100 bg-gray-50 dark:bg-[#1F2A37] p-10 text-center md:px-8 lg:py-9 lg:px-6 xl:py-[45px] xl:px-[43px]">
+          <div className="group relative mb-8 rounded-xl border border-gray-100 dark:border-gray-900 bg-gray-50 dark:bg-[#1F2A37] p-10 text-center md:px-8 lg:py-9 lg:px-6 xl:py-[45px] xl:px-[43px]">
             <div className="relative z-10 inline-flex items-center mx-auto mb-10 h-11">
               <span className="bg-primary absolute -right-3 top-0 z-[-1] h-[34px] w-[34px] rounded-full opacity-10"></span>
               <svg width="51" height="50" viewBox="0 0 51 50" fill="none" xmlns="http://www.w3.org/2000/svg">

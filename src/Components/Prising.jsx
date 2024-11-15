@@ -21,7 +21,7 @@ const Prising = () => {
 
       <div className="flex flex-wrap justify-center -mx-4">
         <div className="w-full px-4 md:w-1/2 lg:w-1/3">
-          <div className="relative z-10 mb-10 overflow-hidden rounded-[10px] border-2 border-gray-200 dark:bg-[#1F2A34] bg-gray-50 py-10 px-8 shadow-pricing sm:p-12 lg:py-10 lg:px-6 xl:p-[50px]">
+          <div className="relative z-10 mb-10 overflow-hidden rounded-[10px] border-2 border-gray-200 dark:border-gray-900 dark:bg-[#1F2A34] bg-gray-50 py-10 px-8 shadow-pricing sm:p-12 lg:py-10 lg:px-6 xl:p-[50px]">
             <span className="block mb-3 text-lg font-semibold text-blue-600">
               Personal
             </span>
@@ -108,7 +108,7 @@ const Prising = () => {
           </div>
         </div>
         <div className="w-full px-4 md:w-1/2 lg:w-1/3">
-          <div className="relative z-10 mb-10 overflow-hidden rounded-[10px] border-2 border-gray-200 dark:bg-[#1F2A34] bg-gray-50 dark:bg-dark-2 py-10 px-8 shadow-pricing sm:p-12 lg:py-10 lg:px-6 xl:p-[50px]">
+          <div className="relative z-10 mb-10 overflow-hidden rounded-[10px] border-2 border-gray-200 dark:border-gray-900 dark:bg-[#1F2A34] bg-gray-50 dark:bg-dark-2 py-10 px-8 shadow-pricing sm:p-12 lg:py-10 lg:px-6 xl:p-[50px]">
             <span className="block mb-3 text-lg font-semibold text-blue-600">
               Business
             </span>
@@ -197,7 +197,7 @@ const Prising = () => {
           </div>
         </div>
         <div className="w-full px-4 md:w-1/2 lg:w-1/3">
-          <div className="relative z-10 mb-10 overflow-hidden rounded-[10px] border-2 border-gray-200 dark:bg-[#1F2A34] bg-gray-50 py-10 px-8 shadow-pricing sm:p-12 lg:py-10 lg:px-6 xl:p-[50px]">
+          <div className="relative z-10 mb-10 overflow-hidden rounded-[10px] border-2 border-gray-200 dark:border-gray-900 dark:bg-[#1F2A34] bg-gray-50 py-10 px-8 shadow-pricing sm:p-12 lg:py-10 lg:px-6 xl:p-[50px]">
             <span className="block mb-3 text-lg font-semibold text-blue-600">
               Professional
             </span>
