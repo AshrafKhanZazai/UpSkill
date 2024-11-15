@@ -17,7 +17,7 @@ const BusinessSite = () => {
             <h1 className="mt-4 text-4xl leading-snug font-bold text-gray-800 dark:text-gray-100 lg:mt-8 sm:text-6xl xl:text-5xl">
               Startup Site Template Built-with TailGrids Components
             </h1>
-            <p className="text-md text-gray-400 leading-6 mt-6 w-full sm:w-3/4 lg:w-2/2">
+            <p className="text-md text-gray-400 leading-6 mt-6 w-full sm:w-1/4 lg:w-full">
               With TailGrids, business and students thrive together. Business can perfectly match their staffing to changing demand throughout the dayed.
             </p>
             <ul className="flex flex-wrap items-center mt-12">
