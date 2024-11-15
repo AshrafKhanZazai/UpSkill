@@ -27,7 +27,7 @@ const Markiting = () => {
            <a href="#!">
             {/* <img className="lg:h-24 h-16 absolute lg:mt-56 mt-40 lg:-mx-80 bg-blue-600 w-full" src="/public/Images/StartUp/playbtn.svg" alt="" /> */}
             </a> 
-            <img  className="h-max w-full" src="/public/Images/StartUp/image-01.jpg" alt="" />
+            <img  className="h-max w-full" src="/Images/StartUp/image-01.jpg" alt="" />
         </div>
       </div>
         
